@@ -138,7 +138,7 @@ def main():
                 render_section_formatting(event["section_formatter"])
 
             elif "research_agent" in event:
-                console.print(Panel.fit(f"section dataset generation completed with {len(event['research_agent']['final_section_dataset'])} dataset rows generated", title="RESEARCH AND SECTION-WISE DATASET GENERATION", border_style="green", width=100))
+                console.print(Panel.fit(f"section dataset generation started — total rows: {len(event['research_agent']['final_section_dataset'])}", title="RESEARCH AND SECTION-WISE DATASET GENERATION", border_style="green", width=100))
 
             elif "final_dataset_aggregator" in event:
                 print_section("FINAL DATASET AGGREGATION")
