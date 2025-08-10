@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/datalore_logo.png" alt="Datlore.ai" />
+  <img src="./assets/datalore_logo.png" alt="Datalore.ai" />
 </div>
 <br/>
 <br/>
@@ -48,7 +48,7 @@ You can download it from the official [uv GitHub repository](https://github.com/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Datalore-ai/datalore-deep-research-cli.git
+git clone https://github.com/Datalore-ai/datalore-deepresearch-cli.git
 cd datalore-deep-research-cli
 ```
 
