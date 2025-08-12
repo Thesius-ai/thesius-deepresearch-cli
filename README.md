@@ -141,6 +141,12 @@ class Configuration:
         return cls(**values)
 ```
 
+## Coming Soon
+
+- [ ] Citations for datasets, showing all resources used  
+- [ ] Support for exporting datasets in multiple formats (CSV, JSON, Parquet)  
+- [ ] Caching system to speed up repeated queries
+- [ ] Integration with AI summarizers for quick dataset overviews    
 
 ##  Authors
  
