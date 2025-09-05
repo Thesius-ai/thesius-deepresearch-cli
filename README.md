@@ -1,6 +1,27 @@
 <div align="center">
   <img src="./assets/datalore_logo.png" alt="Datalore.ai" />
 </div>
+<p align="center">
+  <!-- Stars -->
+  <a href="https://github.com/Datalore-ai/datalore-deepresearch-cli/stargazers">
+    <img src="https://img.shields.io/github/stars/Datalore-ai/datalore-deepresearch-cli?style=flat-square" alt="GitHub Stars">
+  </a>
+  <!-- License -->
+  <a href="https://github.com/Datalore-ai/datalore-deepresearch-cli/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Datalore-ai/datalore-deepresearch-cli?style=flat-square&color=purple" alt="License">
+  </a>
+  <!-- Last Commit -->
+  <a href="https://github.com/Datalore-ai/datalore-deepresearch-cli/commits/main">
+    <img src="https://img.shields.io/github/last-commit/Datalore-ai/datalore-deepresearch-cli?style=flat-square&color=blue" alt="Last Commit">
+  </a>
+  <!-- Python Version -->
+  <img src="https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square" alt="Python Version">
+  <!-- Contributors -->
+  <a href="https://github.com/Datalore-ai/datalore-deepresearch-cli/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/Datalore-ai/datalore-deepresearch-cli?style=flat-square&color=yellow" alt="Contributors">
+  </a>
+</p>
+
 <br/>
 <br/>
 <div align="center">
