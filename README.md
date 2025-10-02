@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="./assets/datalore_logo.png" alt="Datalore.ai" />
 </div>
 <p align="center">
@@ -7,17 +7,18 @@
   <a href="https://github.com/Datalore-ai/datalore-deepresearch-cli/commits/main"><img src="https://img.shields.io/github/last-commit/Datalore-ai/datalore-deepresearch-cli?style=flat-square&color=blue" alt="Last Commit"></a>
   <img src="https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square" alt="Python Version">
   <a href="https://github.com/Datalore-ai/datalore-deepresearch-cli/graphs/contributors"><img src="https://img.shields.io/github/contributors/Datalore-ai/datalore-deepresearch-cli?style=flat-square&color=yellow" alt="Contributors"></a>
-</p>
+</p> -->
 
-<br/>
+<!-- <br/>
 <br/>
 <div align="center">
   <img src="./assets/deep_research.gif" alt="Deep Research Demo" />
-</div>
+</div> -->
+<h1 align='center'>Thesius - deepresearch dataset generator</h1>
 
 ## Overview
 
-Datalore is a terminal tool for generating structured datasets from real-world data using deep research. You describe the kind of dataset you need, and it automatically searches across the web, builds context through multi-step research, suggests a schema, and outputs clean, usable data. It’s built for quick experimentation, training tasks, or anytime you need structured data without manually gathering or formatting it.
+Thesius is a terminal tool for generating structured datasets from real-world data using deep research. You describe the kind of dataset you need, and it automatically searches across the web, builds context through multi-step research, suggests a schema, and outputs clean, usable data. It’s built for quick experimentation, training tasks, or anytime you need structured data without manually gathering or formatting it.
 
 
 ## How It Works
@@ -36,7 +37,7 @@ Datalore is a terminal tool for generating structured datasets from real-world d
 
 ## Workflow
 
-This diagram shows how Datalore takes a user prompt, performs recursive web research, and turns the results into a structured dataset.
+This diagram shows how Thesius takes a user prompt, performs recursive web research, and turns the results into a structured dataset.
 
 ![Deep Research Workflow](./assets/Deep_Research.png)
 
@@ -56,8 +57,8 @@ You can download it from the official [uv GitHub repository](https://github.com/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Datalore-ai/datalore-deepresearch-cli.git
-cd datalore-deep-research-cli
+git clone https://github.com/Thesius-ai/thesius-deepresearch-cli.git
+cd thesius-deep-research-cli
 ```
 
 ### 2. Create a Virtual Environment
