@@ -15,7 +15,7 @@ from pyfiglet import Figlet
 
 console = Console()
 
-def render_banner(title: str = "Datalore.ai", subtitle: str = ""):
+def render_banner(title: str = "Thesius.ai", subtitle: str = ""):
     figlet = Figlet(font="banner3-D", width=200)
     ascii_art = figlet.renderText(title)
 
@@ -102,7 +102,7 @@ def save_json(data, directory="output_files"):
     console.print(f"[green]Saved final dataset to:[/green] {filepath}")
 
 def main():
-    render_banner("Datalore.ai", "AI-powered Deep Research & Dataset Engine")
+    render_banner("Thesius.ai", "AI-powered Deep Research & Dataset Engine")
 
     topic = Prompt.ask("[bold yellow]Enter your topic[/bold yellow]").strip()
     outline = Prompt.ask("[bold yellow]Enter your outline or goal[/bold yellow]").strip()
