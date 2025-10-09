@@ -1,4 +1,12 @@
 <h1 align='center'>Oqura.ai - deepresearch dataset generator</h1>
+<p align="center">
+  <a href="https://github.com/Oqura-ai/deepresearch-datagen-cli/stargazers"><img src="https://img.shields.io/github/stars/Oqura-ai/deepresearch-datagen-cli?style=flat-square" alt="GitHub Stars"></a>
+  <a href="https://github.com/Oqura-ai/deepresearch-datagen-cli/blob/main/LICENCE"><img src="https://img.shields.io/github/license/Oqura-ai/deepresearch-datagen-cli?style=flat-square&color=purple" alt="License"></a>
+  <a href="https://github.com/Oqura-ai/deepresearch-datagen-cli/commits/main"><img src="https://img.shields.io/github/last-commit/Oqura-ai/deepresearch-datagen-cli?style=flat-square&color=blue" alt="Last Commit"></a>
+  <img src="https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square" alt="Python Version">
+  <a href="https://github.com/Oqura-ai/deepresearch-datagen-cli/graphs/contributors"><img src="https://img.shields.io/github/contributors/Oqura-ai/deepresearch-datagen-cli?style=flat-square&color=yellow" alt="Contributors"></a>
+</p>
+
 
 ## Overview
 
