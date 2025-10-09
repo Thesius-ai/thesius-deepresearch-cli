@@ -1,8 +1,8 @@
-<h1 align='center'>Thesius - deepresearch dataset generator</h1>
+<h1 align='center'>Oqura.ai - deepresearch dataset generator</h1>
 
 ## Overview
 
-Thesius is a terminal tool for generating structured datasets from real-world data using deep research. You describe the kind of dataset you need, and it automatically searches across the web, builds context through multi-step research, suggests a schema, and outputs clean, usable data. It’s built for quick experimentation, training tasks, or anytime you need structured data without manually gathering or formatting it.
+Oqura's deepresearch-datagen-cli is a terminal tool for generating structured datasets from real-world data using deep research. You describe the kind of dataset you need, and it automatically searches across the web, builds context through multi-step research, suggests a schema, and outputs clean, usable data. It’s built for quick experimentation, training tasks, or anytime you need structured data without manually gathering or formatting it.
 
 
 ## How It Works
@@ -21,7 +21,7 @@ Thesius is a terminal tool for generating structured datasets from real-world da
 
 ## Workflow
 
-This diagram shows how Thesius takes a user prompt, performs recursive web research, and turns the results into a structured dataset.
+This diagram shows how the tool takes a user prompt, performs recursive web research, and turns the results into a structured dataset.
 
 ![Deep Research Workflow](./assets/Deep_Research.png)
 
@@ -41,8 +41,8 @@ You can download it from the official [uv GitHub repository](https://github.com/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Thesius-ai/thesius-deepresearch-cli.git
-cd thesius-deep-research-cli
+git clone https://github.com/Oqura-ai/deepresearch-datagen-cli.git
+cd deepresearch-datagen-cli
 ```
 
 ### 2. Create a Virtual Environment
